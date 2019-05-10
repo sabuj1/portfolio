@@ -1,0 +1,70 @@
+@media only screen and (min-width:768px) and (max-width:991px) {
+
+    .carousel-caption {
+	top: 35%;
+}.carousel-caption > h1 {
+	font-size: 20px;
+}.carousel-caption > p {
+	font-size: 35px;
+	width: 70%;
+}.info {
+    width: 100%;}
+    #skills{
+	margin-top: -110px;
+}
+}
+
+@media only screen and (max-width:767px) {
+
+    .navbar-default .navbar-toggle {
+	margin-top: 27px;
+	border: none;
+	background: none;
+    }.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background: none;
+}.navbar-right {
+	float: none !important;
+	text-align: center;
+}
+    .about-text {
+	text-align: center;
+	margin-top: 44px;
+    margin-left: 0px
+    }.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+	line-height: 1;
+	height: 300px;
+}.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+    font-size: 16px;}
+    .carousel-caption > h1 {
+	letter-spacing: 0px;
+	font-size: 16px;
+	margin-bottom: 16px;
+}
+   .carousel-caption {
+	top: 25%;
+} .carousel-caption > p {
+	font-size: 17px;
+    }.car-1st{top: 30%}hr {
+	width: 83%;
+	margin: 0 auto;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+/*    bnner end*/
+/*    about start*/
+    .list-inline>li {
+	padding-left: 0px;
+}
+/*    about end*/
+    .skill-progress {
+	padding: 80px 0px;
+	width: 83%;
+	margin: 0 auto;
+}
+/*    contact start*/
+    .contact-form {
+	margin-left: 0px;
+}
+    .info {
+        width: 83%;}
+    .icon{	margin-top: 26px;}
