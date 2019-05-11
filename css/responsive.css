@@ -72,7 +72,7 @@
 }
     .info {
         width: 83%;}
-    .icon{	margin-top: 26px;}
+	 .icon{	margin-top: 26px;}}
   /* wide mobile layout: 480px */
 
 @media only screen and (min-width: 480px) and (max-width: 767px) 
