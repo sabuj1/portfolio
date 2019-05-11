@@ -1,4 +1,6 @@
-@media only screen and (min-width:768px) and (max-width:991px) {
+/* tablet layout: 768px */
+@media only screen and (min-width: 768px) and (max-width: 991px)
+ {
 
     .carousel-caption {
 	top: 35%;
@@ -14,7 +16,10 @@
 }
 }
 
-@media only screen and (max-width:767px) {
+/*mobile layout: 320px */
+
+@media only screen and (max-width: 767px) 
+ {
 
     .navbar-default .navbar-toggle {
 	margin-top: 27px;
